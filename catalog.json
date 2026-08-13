@@ -218,6 +218,19 @@
       "notes": "books/978-4-15-207963-3.md",
       "remark": "第113回直木賞受賞（1995 下期）",
       "ebook_url": "https://z-library.im/book/L5wbgOmNZp/%E6%81%8B.html"
+    },
+    {
+      "isbn": "口語法精説",
+      "title": "口語法精説",
+      "author": "湯沢幸吉郎",
+      "publisher": "明治書院",
+      "publish_date": "1953-09",
+      "category": "国語学（文法研究）",
+      "pages": 361,
+      "price": "未確認",
+      "status": "未读",
+      "notes": "books/口語法精説.md",
+      "remark": "無 ISBN・無雑誌コード；昭和28年9月初版，覆刻版 1977-09（8,361p・22cm A5）"
     }
   ]
 }
