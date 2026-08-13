@@ -48,14 +48,21 @@ def load_credentials() -> dict:
     }
 
 
-def solve_pow() -> str:
-    prefix = "16280858C8CAF662DE349F01DC674527B6C92BA1"
+def solve_pow(prefix: str, n1: int) -> str:
     i = 0
     while True:
         d = hashlib.sha1((prefix + str(i)).encode()).digest()
-        if d[1] == 0xB0 and d[2] == 0x0B:
+        if d[n1] == 0xB0 and d[n1 + 1] == 0x0B:
             return prefix + str(i)
         i += 1
+
+
+def parse_challenge(body: bytes):
+    m = re.search(rb"a0_0x2a54=\['([0-9A-Fa-f]{40})'", body)
+    if not m:
+        raise RuntimeError("无法解析 PoW 挑战（页面结构可能已变）")
+    prefix = m.group(1).decode()
+    return prefix, int(prefix[0], 16)
 
 
 class Zlibr:
@@ -102,10 +109,13 @@ class Zlibr:
 
     async def download_file(self, download_location: str, out: Path):
         dl = urllib.parse.unquote(download_location)
-        await self._req("GET", dl.replace(self.site, ""))
-        token = solve_pow()
-        self.session.cookie_jar.update_cookies({"c_token": token, "c_time": "0.100"})
-        body, status, ctype = await self._req("GET", dl.replace(self.site, ""))
+        path = dl.replace(self.site, "")
+        body, status, ctype = await self._req("GET", path)
+        if status == 503 and b"Checking your browser" in body:
+            prefix, n1 = parse_challenge(body)
+            token = solve_pow(prefix, n1)
+            self.session.cookie_jar.update_cookies({"c_token": token, "c_time": "0.100"})
+            body, status, ctype = await self._req("GET", path)
         if status != 200:
             raise RuntimeError(f"下载失败 HTTP {status}")
         out.write_bytes(body)
