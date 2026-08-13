@@ -204,6 +204,20 @@
       "status": "未读",
       "notes": "books/7395-130302-0944.md",
       "remark": "無 ISBN；7395-130302-0944 为雑誌コード（発行者コード 7395・号数 13・3月2日発売・価格コード 0944＝944円）"
+    },
+    {
+      "isbn": "978-4-15-207963-3",
+      "title": "恋",
+      "author": "小池真理子",
+      "publisher": "早川書房",
+      "publish_date": "1995-10",
+      "category": "単行本（四六判）",
+      "pages": 355,
+      "price": "JPY 1,700",
+      "status": "未读",
+      "notes": "books/978-4-15-207963-3.md",
+      "remark": "第113回直木賞受賞（1995 下期）",
+      "ebook_url": "https://z-library.im/book/L5wbgOmNZp/%E6%81%8B.html"
     }
   ]
 }
