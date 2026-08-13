@@ -1,0 +1,13 @@
+# 电子书实体文件不入库（档案中仅保留绝对 URL 链接）
+*.epub
+*.pdf
+*.mobi
+*.azw3
+*.djvu
+books/*.epub
+books/*.pdf
+
+# Python 虚拟环境
+.venv/
+__pycache__/
+*.pyc
