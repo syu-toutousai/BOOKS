@@ -231,6 +231,19 @@
       "status": "未读",
       "notes": "books/口語法精説.md",
       "remark": "無 ISBN・無雑誌コード；昭和28年9月初版，覆刻版 1977-09（8,361p・22cm A5）"
+    },
+    {
+      "isbn": "978-7-5077-0706-9",
+      "title": "微型英汉词典（新编版）",
+      "author": "未著录",
+      "publisher": "学苑出版社",
+      "publish_date": "1995",
+      "category": "辞典",
+      "pages": null,
+      "price": "CNY 10.00",
+      "status": "未读",
+      "notes": "books/978-7-5077-0706-9.md",
+      "remark": "微型/袖珍开本"
     }
   ]
 }
