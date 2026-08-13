@@ -6,6 +6,8 @@
 *.djvu
 books/*.epub
 books/*.pdf
+# 自转录的 txt 电子版工作稿（不入库，档案中记录）
+books/*.md.txt
 
 # Python 虚拟环境
 .venv/
