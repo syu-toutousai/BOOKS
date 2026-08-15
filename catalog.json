@@ -231,6 +231,31 @@
       "remark": "無 ISBN；7395-130302-0944 は雑誌コード（発行者コード 7395・号数 13・3月2日発売・価格コード 0944＝944円）"
     },
     {
+      "isbn": "978-4-08-872509-3",
+      "title": "ONE PIECE 1",
+      "author": "尾田栄一郎",
+      "publisher": "集英社",
+      "publish_date": "1997-12",
+      "category": "漫画（ジャンプコミックス）",
+      "pages": 208,
+      "price": "JPY 440+税",
+      "status": "未読",
+      "notes": "books/978-4-08-872509-3.md",
+      "ebook_url": "https://z-library.im/book/QJ2jMav7JX/one-piece-%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9%E7%AC%AC01%E5%B7%BB.html"
+    },
+    {
+      "isbn": "978-4-08-872840-7",
+      "title": "NARUTO―ナルト― 1",
+      "author": "岸本斉史",
+      "publisher": "集英社",
+      "publish_date": "2000-03",
+      "category": "漫画（ジャンプコミックス）",
+      "pages": 192,
+      "price": "JPY 520+税",
+      "status": "未読",
+      "notes": "books/978-4-08-872840-7.md"
+    },
+    {
       "isbn": "978-4-02-265059-7",
       "title": "傲慢と善良",
       "author": "辻村深月",
