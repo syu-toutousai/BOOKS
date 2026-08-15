@@ -129,6 +129,18 @@
       "ebook_url": "https://z-library.im/book/wkzNPy3MkG/%E5%8F%A4%E4%BA%8B%E8%AE%B0.html"
     },
     {
+      "isbn": "978-7-5628-6287-1",
+      "title": "日文原版.起风了（赠音频）",
+      "author": "堀辰雄",
+      "publisher": "华东理工大学出版社",
+      "publish_date": "2020-11",
+      "category": "H369.4:I",
+      "pages": 136,
+      "price": "CNY 26.80",
+      "status": "未読",
+      "notes": "books/978-7-5628-6287-1.md"
+    },
+    {
       "isbn": "978-7-5628-6288-8",
       "title": "日文原版.心（赠音频）",
       "author": "夏目漱石",
@@ -140,6 +152,19 @@
       "status": "未読",
       "notes": "books/978-7-5628-6288-8.md",
       "ebook_url": "https://z-library.im/book/2J3MQVn45o/%E3%81%93%E3%81%93%E3%82%8D.html"
+    },
+    {
+      "isbn": "978-7-5628-6290-1",
+      "title": "日文原版.我是猫（赠音频）",
+      "author": "夏目漱石",
+      "publisher": "华东理工大学出版社",
+      "publish_date": "2020-11",
+      "category": "H369.4:I",
+      "pages": 114,
+      "price": "CNY 26.80",
+      "status": "未読",
+      "notes": "books/978-7-5628-6290-1.md",
+      "ebook_url": "https://z-library.im/book/ek7QnbRqZq/%E5%90%BE%E8%BC%A9%E3%81%AF%E7%8C%AB%E3%81%A7%E3%81%82%E3%82%8B.html"
     },
     {
       "isbn": "978-7-5628-6291-8",
