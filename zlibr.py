@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Z-Library 助手（eAPI 直连，免费账号可用）。
+"""Z-Library ヘルパー（eAPI 直結。無料アカウントで利用可）。
 
-用法:
-  .venv/bin/python zlibr.py search <书名/ISBN>
-  .venv/bin/python zlibr.py download <书名> [--format epub]
+使い方:
+  .venv/bin/python zlibr.py search <書名/ISBN>
+  .venv/bin/python zlibr.py download <書名> [--format epub]
 
-凭据: 从 ~/.env 读取 USERNAME / PASSWORD / SITE（z-library.im）
-流程: eAPI 登录 -> 搜索 -> 详情(含 download_location) -> 过 PoW 挑战 -> 取文件
+認証情報: ~/.env から USERNAME / PASSWORD / SITE を読み取る（z-library.im）
+流れ: eAPI ログイン -> 検索 -> 詳細（download_location を含む）-> PoW チャレンジ解決 -> ファイル取得
 """
 import asyncio
 import hashlib
@@ -40,7 +40,7 @@ def load_credentials() -> dict:
                 k, _, v = line.partition("=")
                 env[k.strip()] = v.strip()
     if "USERNAME" not in env or "PASSWORD" not in env:
-        sys.exit("请先按需加载账号: source ~/.env && zlib-2（或 ZLIB_EMAIL/ZLIB_PASSWORD 环境变量）")
+        sys.exit("先にアカウントを読み込んでください: source ~/.env && zlib-2（または ZLIB_EMAIL/ZLIB_PASSWORD 環境変数）")
     return {
         "email": env["USERNAME"],
         "password": env["PASSWORD"],
@@ -60,7 +60,7 @@ def solve_pow(prefix: str, n1: int) -> str:
 def parse_challenge(body: bytes):
     m = re.search(rb"a0_0x2a54=\['([0-9A-Fa-f]{40})'", body)
     if not m:
-        raise RuntimeError("无法解析 PoW 挑战（页面结构可能已变）")
+        raise RuntimeError("PoW チャレンジを解析できません（ページ構造が変わった可能性）")
     prefix = m.group(1).decode()
     return prefix, int(prefix[0], 16)
 
@@ -91,10 +91,10 @@ class Zlibr:
         body, status, _ = await self._req("POST", "/eapi/user/login",
                                           data={"email": self.cred["email"], "password": self.cred["password"]})
         if status != 200:
-            raise RuntimeError(f"登录失败 HTTP {status}")
+            raise RuntimeError(f"ログイン失敗 HTTP {status}")
         data = json.loads(body)
         if data.get("success") != 1:
-            raise RuntimeError(f"登录失败: {data.get('error')}")
+            raise RuntimeError(f"ログイン失敗: {data.get('error')}")
 
     async def search(self, query: str, limit: int = 10) -> list:
         body, status, _ = await self._req("POST", "/eapi/book/search",
@@ -117,7 +117,7 @@ class Zlibr:
             self.session.cookie_jar.update_cookies({"c_token": token, "c_time": "0.100"})
             body, status, ctype = await self._req("GET", path)
         if status != 200:
-            raise RuntimeError(f"下载失败 HTTP {status}")
+            raise RuntimeError(f"ダウンロード失敗 HTTP {status}")
         out.write_bytes(body)
         return ctype, len(body)
 
@@ -129,7 +129,7 @@ async def cmd_search(query: str):
         await z.login()
         books = await z.search(query)
         if not books:
-            print("未找到结果")
+            print("結果が見つかりません")
             return
         for b in books:
             print(f"  [{b.get('extension','?')}] {b.get('title','?')} | {b.get('author','?')} "
@@ -145,21 +145,21 @@ async def cmd_download(query: str, ext: str):
         await z.login()
         books = await z.search(query)
         if not books:
-            print("未找到结果")
+            print("結果が見つかりません")
             return
         matches = [b for b in books if b.get("extension") == ext] or books
         book = matches[0]
-        print(f"解析详情: {book.get('title')} ({book.get('extension')})")
+        print(f"詳細を解析中: {book.get('title')} ({book.get('extension')})")
         det = await z.details(book)
         ru = det.get("readOnlineUrl")
         if not ru or "download_location=" not in ru:
-            print("详情中没有下载地址")
+            print("詳細にダウンロード先がありません")
             return
         dl = ru.split("download_location=")[1].split("&")[0]
         safe = "".join(c for c in book.get("title", "book") if c not in '\\/:*?"<>|').strip()[:60]
         out = Path("books") / f"{safe}.{ext}"
         ctype, size = await z.download_file(dl, out)
-        print(f"已保存: {out} ({size} bytes, {ctype})")
+        print(f"保存しました: {out} ({size} bytes, {ctype})")
     finally:
         await z.close()
 

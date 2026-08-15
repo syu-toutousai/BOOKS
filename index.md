@@ -74,7 +74,7 @@
 | 978-4-09-863654-9 | [九条の大罪 16](books/978-4-09-863654-9.md) | 真鍋昌平 | 小学館 | 2026-04 | 152 | JPY 770 | 未読 | [RAWKUMA](https://rawkuma.net/manga/kujou-no-taizai/) | D |
 | 978-4-09-864060-7 | [九条の大罪 17](books/978-4-09-864060-7.md) | 真鍋昌平 | 小学館 | 2026-08 | 144 | JPY 770 | 未読 | [RAWKUMA](https://rawkuma.net/manga/kujou-no-taizai/) | D |
 
-> 保管列<span style="color:red">红色</span> = [PACKING_LIST.md](PACKING_LIST.md) 必带实体书（出行需携带实体，其余可带电子版）
+> 保管列<span style="color:red">赤色</span> = [携帯リスト.md](携帯リスト.md) の実体携帯書（出張時は実体を携帯、その他は電子版で可）
 
 ---
 Powered by [BOOKS](https://github.com/syu-toutousai/BOOKS)
