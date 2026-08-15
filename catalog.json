@@ -138,7 +138,9 @@
       "pages": 136,
       "price": "CNY 26.80",
       "status": "未読",
-      "notes": "books/978-7-5628-6287-1.md"
+      "notes": "books/978-7-5628-6287-1.md",
+      "remark": "日本語オンリー版・全文仮名付き・朗読音声付き",
+      "ebook_url": "https://z-library.im/book/9JD04xMAJw/%E9%A2%A8%E7%AB%8B%E3%81%A1%E3%81%AC.html"
     },
     {
       "isbn": "978-7-5628-6288-8",
