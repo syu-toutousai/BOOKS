@@ -463,6 +463,36 @@
       "priority": "A",
       "notes": "books/978-7-5077-0706-9.md",
       "remark": "ミニ/ポケット判"
+    },
+    {
+      "isbn": "わが闘争（上下・続 3冊合本版）",
+      "title": "わが闘争（上下・続 3冊合本版）",
+      "author": "アドルフ・ヒトラー；平野一郎・将積茂（訳）",
+      "publisher": "KADOKAWA（角川文庫）",
+      "publish_date": "2016",
+      "category": "政治思想（歴史的文献）",
+      "pages": 0,
+      "price": "未確認",
+      "status": "未読",
+      "priority": "D",
+      "notes": "books/わが闘争（上下・続 3冊合本版）.md",
+      "remark": "デジタルのみ所持（実書なし）；日本語完訳 3冊合本；ローカル保存 epub 15.0 MB",
+      "ebook_url": "https://z-library.im/book/GkMyYEMQkn/%E3%82%8F%E3%81%8C%E9%97%98%E4%BA%89.html"
+    },
+    {
+      "isbn": "わが闘争（まんがで読破）",
+      "title": "わが闘争（まんがで読破）",
+      "author": "アドルフ・ヒトラー；team banmikas（バラエティ・アートワークス）",
+      "publisher": "team banmikas",
+      "publish_date": "2021",
+      "category": "政治思想（歴史的文献）",
+      "pages": 0,
+      "price": "未確認",
+      "status": "未読",
+      "priority": "D",
+      "notes": "books/わが闘争（まんがで読破）.md",
+      "remark": "デジタルのみ所持（実書なし）；漫画化・入門編；ローカル保存 epub 74.0 MB",
+      "ebook_url": "https://z-library.im/book/qZb0vLQPkM/%E3%82%8F%E3%81%8C%E9%97%98%E4%BA%89.html"
     }
   ]
 }

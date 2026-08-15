@@ -39,6 +39,8 @@
 | 口語法精説 | [口語法精説](books/口語法精説.md) | 湯沢幸吉郎 | 明治書院 | 1953-09 | 361 | 未確認 | 未読 | — | A |
 | 文型式古典文法入門 | [文型式古典文法入門](books/文型式古典文法入門.md) | 国際交流基金（日本研究部）編 | 国際交流基金 | 1980-07 | 112 | 未確認 | 未読 | — | A |
 | 978-7-5077-0706-9 | [微型英汉词典（新编版）](books/978-7-5077-0706-9.md) | 未記載 | 学苑出版社 | 1995 | — | CNY 10.00 | 未読 | — | A |
+| わが闘争（上下・続 3冊合本版） | [わが闘争（上下・続 3冊合本版）](books/わが闘争（上下・続 3冊合本版）.md) | ヒトラー／平野一郎・将積茂（訳） | KADOKAWA | 2016 | — | 未確認 | 未読 | [z-library](https://z-library.im/book/GkMyYEMQkn/%E3%82%8F%E3%81%8C%E9%97%98%E4%BA%89.html) | D |
+| わが闘争（まんがで読破） | [わが闘争（まんがで読破）](books/わが闘争（まんがで読破）.md) | ヒトラー／team banmikas | team banmikas | 2021 | — | 未確認 | 未読 | [z-library](https://z-library.im/book/qZb0vLQPkM/%E3%82%8F%E3%81%8C%E9%97%98%E4%BA%89.html) | D |
 
 ---
 Powered by [BOOKS](https://github.com/syu-toutousai/BOOKS)
