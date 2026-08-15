@@ -33,9 +33,9 @@
 | 978-4-10-353381-8 | [首里の馬](books/978-4-10-353381-8.md) | 高山羽根子 | 新潮社 | 2020-07 | 160 | JPY 1,375 | 未読 | — | <font color="red">A</font> |
 | 978-4-88019-503-2 | [解釈・読解のための新明解古典文法（改訂版）](books/978-4-88019-503-2.md) | 江口正弘 編著 | 尚文出版 | 1988-02 | 176 | JPY 420 | 未読 | — | <font color="red">A</font> |
 | 978-4-02-265059-7 | [傲慢と善良](books/978-4-02-265059-7.md) | 辻村深月 | 朝日新聞出版 | 2022-09 | 504 | JPY 810+税 | 未読 | [z-library](https://z-library.im/book/vZn36Mov5y/%E5%82%B2%E6%85%A2%E3%81%A8%E5%96%84%E8%89%AF.html) | C |
-| 978-4-16-779603-7 | [廃墟に乞う](books/978-4-16-779603-7.md) | 佐々木譲 | 文藝春秋 | 2012-01 | 366 | JPY 619+税 | 未読 | [z-library](https://z-library.im/book/j5lVWg6yJW/%E7%BB%9D%E6%9C%9B%E7%9A%84%E5%BA%9F%E5%A2%9F%E4%BD%90%E4%BD%90%E6%9C%A8%E8%AE%A9%E7%B3%BB%E5%88%9701.html) | A |
+| 978-4-16-779603-7 | [廃墟に乞う](books/978-4-16-779603-7.md) | 佐々木譲 | 文藝春秋 | 2012-01 | 366 | JPY 619+税 | 未読 | [z-library](https://z-library.im/book/j5lVWg6yJW/%E7%BB%9D%E6%9C%9B%E7%9A%84%E5%BA%9F%E5%A2%9F%E4%BD%90%E4%BD%90%E6%9C%A8%E8%AE%A9%E7%B3%BB%E5%88%9701.html) | <font color="red">A</font> |
 | 978-4-15-120053-3 | [一九八四年（新訳版）](books/978-4-15-120053-3.md) | ジョージ・オーウェル／高橋和久（訳） | 早川書房 | 2009-07 | 511 | JPY 1,100+税 | 未読 | [z-library](https://z-library.im/book/K5YN20dYkR/%E4%B8%80%E4%B9%9D%E5%85%AB%E5%9B%9B%E5%B9%B4%E6%96%B0%E8%A8%B3%E7%89%88-%E3%83%8F%E3%83%A4%E3%82%AB%E3%83%AFepi%E6%96%87%E5%BA%AB.html) | C |
-| 978-4-15-207963-3 | [恋](books/978-4-15-207963-3.md) | 小池真理子 | 早川書房 | 1995-10 | 355 | JPY 1,700 | 未読 | [z-library](https://z-library.im/book/L5wbgOmNZp/%E6%81%8B.html) | A |
+| 978-4-15-207963-3 | [恋](books/978-4-15-207963-3.md) | 小池真理子 | 早川書房 | 1995-10 | 355 | JPY 1,700 | 未読 | [z-library](https://z-library.im/book/L5wbgOmNZp/%E6%81%8B.html) | <font color="red">A</font> |
 | 口語法精説 | [口語法精説](books/口語法精説.md) | 湯沢幸吉郎 | 明治書院 | 1953-09 | 361 | 未確認 | 未読 | — | <font color="red">A</font> |
 | 文型式古典文法入門 | [文型式古典文法入門](books/文型式古典文法入門.md) | 国際交流基金（日本研究部）編 | 国際交流基金 | 1980-07 | 112 | 未確認 | 未読 | — | <font color="red">A</font> |
 | 978-7-5077-0706-9 | [微型英汉词典（新编版）](books/978-7-5077-0706-9.md) | 未記載 | 学苑出版社 | 1995 | — | CNY 10.00 | 未読 | — | <font color="red">A</font> |
