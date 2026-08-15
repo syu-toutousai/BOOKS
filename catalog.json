@@ -231,6 +231,19 @@
       "remark": "無 ISBN；7395-130302-0944 は雑誌コード（発行者コード 7395・号数 13・3月2日発売・価格コード 0944＝944円）"
     },
     {
+      "isbn": "978-4-15-120053-3",
+      "title": "一九八四年（新訳版）",
+      "author": "ジョージ・オーウェル／高橋和久（訳）",
+      "publisher": "早川書房",
+      "publish_date": "2009-07",
+      "category": "文庫",
+      "pages": 511,
+      "price": "JPY 1,100+税",
+      "status": "未読",
+      "notes": "books/978-4-15-120053-3.md",
+      "ebook_url": "https://z-library.im/book/K5YN20dYkR/%E4%B8%80%E4%B9%9D%E5%85%AB%E5%9B%9B%E5%B9%B4%E6%96%B0%E8%A8%B3%E7%89%88-%E3%83%8F%E3%83%A4%E3%82%AB%E3%83%AFepi%E6%96%87%E5%BA%AB.html"
+    },
+    {
       "isbn": "978-4-15-207963-3",
       "title": "恋",
       "author": "小池真理子",
