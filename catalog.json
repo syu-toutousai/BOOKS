@@ -256,6 +256,19 @@
       "notes": "books/978-4-08-872840-7.md"
     },
     {
+      "isbn": "978-4-06-209368-2",
+      "title": "Twelve Y.O.",
+      "author": "福井晴敏",
+      "publisher": "講談社",
+      "publish_date": "1998-09",
+      "category": "単行本（四六判）",
+      "pages": 340,
+      "price": "JPY 1,650",
+      "status": "未読",
+      "notes": "books/978-4-06-209368-2.md",
+      "remark": "第44回江戸川乱歩賞受賞（1998）；デビュー作"
+    },
+    {
       "isbn": "978-4-02-265059-7",
       "title": "傲慢と善良",
       "author": "辻村深月",
