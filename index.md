@@ -26,6 +26,7 @@
 | 957-29609-1-1 | [塔木德-猶太人的致富聖經](books/957-29609-1-1.md) | 佛蘭克．赫爾（著）／徐世明（訳） | 智言館 | 2004-07 | 307 | NT$ 250 | 未読 | [z-library](https://z-library.im/book/g5q8laMeZm/%E5%A1%94%E6%9C%A8%E5%BE%B7.html) | A |
 | 1-898874-04-X | [Stress, World Cultures and Peace](books/1-898874-04-X.md) | J. K. Burns Ph.D (Glas.) | 不明 | 1994 | — | — | 未読 | — | A |
 | 978-7-5601-2370-7 | [我是猫（日汉对照·世界名著丛书）](books/978-7-5601-2370-7.md) | 夏目漱石（著）／于雷（訳）／许昌福（编校） | 吉林大学出版社 | 2000-05 | 544 | CNY 23.00 | 未読 | [z-library](https://z-library.im/book/0kBpmPXQZv/%E6%88%91%E6%98%AF%E7%8C%AB(%E8%AF%91%E6%96%87%E5%90%8D%E8%91%97%E7%B2%BE%E9%80%89).html) | A |
+| 978-7-80019-794-9 | [百姓话题:当代顺口溜](books/978-7-80019-794-9.md) | 鲁文（编著）／成杰（配图） | 中国档案出版社 | 1998 | 260 | CNY 18.00 | 未読 | [z-library](https://z-library.im/book/GZaYoxw4Zl/%E7%99%BE%E5%A7%93%E8%AF%9D%E9%A2%98-%E5%BD%93%E4%BB%A3%E9%A1%BA%E5%8F%A3%E6%BA%9C.html) | C |
 | 978-7-5628-6287-1 | [日文原版.起风了（赠音频）](books/978-7-5628-6287-1.md) | 堀辰雄 | 华东理工大学出版社 | 2020-11 | 136 | CNY 26.80 | 未読 | [z-library](https://z-library.im/book/9JD04xMAJw/%E9%A2%A8%E7%AB%8B%E3%81%A1%E3%81%AC.html) | B |
 | 978-7-5628-6288-8 | [日文原版.心（赠音频）](books/978-7-5628-6288-8.md) | 夏目漱石 | 华东理工大学出版社 | 2020-11 | 360 | CNY 38.80 | 未読 | [z-library](https://z-library.im/book/2J3MQVn45o/%E3%81%93%E3%81%93%E3%82%8D.html) | B |
 | 978-7-5628-6290-1 | [日文原版.我是猫（赠音频）](books/978-7-5628-6290-1.md) | 夏目漱石 | 华东理工大学出版社 | 2020-11 | 114 | CNY 26.80 | 未読 | [z-library](https://z-library.im/book/ek7QnbRqZq/%E5%90%BE%E8%BC%A9%E3%81%AF%E7%8C%AB%E3%81%A7%E3%81%82%E3%82%8B.html) | B |
