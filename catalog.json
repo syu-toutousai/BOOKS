@@ -316,6 +316,22 @@
       "scan": false
     },
     {
+      "isbn": "978-7-5628-5158-5",
+      "title": "我是猫（日汉对照·精装有声撷英版）",
+      "author": "夏目漱石／邹波（訳）",
+      "publisher": "华东理工大学出版社",
+      "publish_date": "2017-12",
+      "category": "H369.4",
+      "pages": 192,
+      "price": "CNY 36.80",
+      "status": "未読",
+      "priority": "A",
+      "notes": "books/978-7-5628-5158-5.md",
+      "remark": "原作 吾輩は猫である・有声・撷英版",
+      "ebook_url": "https://z-library.im/book/D5j3aMPlkN/%E6%88%91%E6%98%AF%E7%8C%AB.html",
+      "scan": false
+    },
+    {
       "isbn": "978-7-5628-6287-1",
       "title": "日文原版.起风了（赠音频）",
       "author": "堀辰雄",
