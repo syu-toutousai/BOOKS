@@ -204,6 +204,22 @@
       "ebook_url": "https://z-library.im/book/qZbmABGPJM/%E8%8F%8A%E4%B8%8E%E5%88%80%EF%BC%88%E5%A2%9E%E8%AE%A2%E7%89%88%EF%BC%89.html"
     },
     {
+      "isbn": "978-7-213-10649-1",
+      "title": "山月记",
+      "author": "中岛敦（著）／六花（訳）／鱼眼（絵）",
+      "publisher": "浙江人民出版社",
+      "publish_date": "2022-08",
+      "category": "I313.45",
+      "pages": 208,
+      "price": "CNY 49.80",
+      "status": "未読",
+      "priority": "A",
+      "notes": "books/978-7-213-10649-1.md",
+      "remark": "磨铁图书・中岛敦小说集・精装",
+      "ebook_url": "https://z-library.im/book/wkzREPOekG/%E5%B1%B1%E6%9C%88%E8%AE%B0.html",
+      "scan": false
+    },
+    {
       "isbn": "978-7-5628-6287-1",
       "title": "日文原版.起风了（赠音频）",
       "author": "堀辰雄",
