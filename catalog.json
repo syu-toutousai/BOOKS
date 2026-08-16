@@ -236,6 +236,22 @@
       "scan": false
     },
     {
+      "isbn": "978-7-216-01957-6",
+      "title": "笑书",
+      "author": "朱立红",
+      "publisher": "湖北人民出版社",
+      "publish_date": "2006-06",
+      "category": "I277.8",
+      "pages": 301,
+      "price": "CNY 34.00",
+      "status": "未読",
+      "priority": "A",
+      "notes": "books/978-7-216-01957-6.md",
+      "remark": "《笑林》～《笑林广记》などの笑话の編訳選集・デジタル版なし",
+      "ebook_url": "",
+      "scan": false
+    },
+    {
       "isbn": "978-7-5628-6287-1",
       "title": "日文原版.起风了（赠音频）",
       "author": "堀辰雄",
