@@ -142,6 +142,21 @@
       "ebook_url": "https://z-library.im/book/wkzNPy3MkG/%E5%8F%A4%E4%BA%8B%E8%AE%B0.html"
     },
     {
+      "isbn": "978-7-201-04861-1",
+      "title": "雪国",
+      "author": "川端康成（著）／叶渭渠・唐月梅（訳）",
+      "publisher": "天津人民出版社",
+      "publish_date": "2005-05",
+      "category": "I313.45",
+      "pages": 438,
+      "price": "CNY 25.00",
+      "status": "未読",
+      "priority": "A",
+      "notes": "books/978-7-201-04861-1.md",
+      "remark": "新经典文库・大师名作坊",
+      "scan": false
+    },
+    {
       "isbn": "978-7-5628-6287-1",
       "title": "日文原版.起风了（赠音频）",
       "author": "堀辰雄",
