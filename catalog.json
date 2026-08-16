@@ -284,6 +284,22 @@
       "scan": false
     },
     {
+      "isbn": "978-7-5601-2370-7",
+      "title": "我是猫（日汉对照·世界名著丛书）",
+      "author": "夏目漱石／于雷（訳）／许昌福（编校）",
+      "publisher": "吉林大学出版社",
+      "publish_date": "2000-05",
+      "category": "H369.4",
+      "pages": 544,
+      "price": "CNY 23.00",
+      "status": "未読",
+      "priority": "A",
+      "notes": "books/978-7-5601-2370-7.md",
+      "remark": "原作 吾輩は猫である・日汉对照",
+      "ebook_url": "https://z-library.im/book/0kBpmPXQZv/%E6%88%91%E6%98%AF%E7%8C%AB(%E8%AF%91%E6%96%87%E5%90%8D%E8%91%97%E7%B2%BE%E9%80%89).html",
+      "scan": false
+    },
+    {
       "isbn": "978-7-5628-6287-1",
       "title": "日文原版.起风了（赠音频）",
       "author": "堀辰雄",
