@@ -157,6 +157,21 @@
       "scan": false
     },
     {
+      "isbn": "978-7-80730-285-8",
+      "title": "中国人（全译本）",
+      "author": "林语堂（著）／郝志东・沈益洪（訳）",
+      "publisher": "学林出版社",
+      "publish_date": "2007-01",
+      "category": "C955.2",
+      "pages": 353,
+      "price": "CNY 30.00",
+      "status": "未読",
+      "priority": "A",
+      "notes": "books/978-7-80730-285-8.md",
+      "remark": "My Country and My People 国内初の全訳（1939年版準拠）",
+      "scan": false
+    },
+    {
       "isbn": "978-7-5628-6287-1",
       "title": "日文原版.起风了（赠音频）",
       "author": "堀辰雄",
