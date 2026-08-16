@@ -252,6 +252,22 @@
       "scan": false
     },
     {
+      "isbn": "957-29609-1-1",
+      "title": "塔木德-猶太人的致富聖經",
+      "author": "佛蘭克．赫爾／徐世明（訳）",
+      "publisher": "智言館",
+      "publish_date": "2004-07",
+      "category": "F830.59",
+      "pages": 307,
+      "price": "NT$ 250",
+      "status": "未読",
+      "priority": "A",
+      "notes": "books/957-29609-1-1.md",
+      "remark": "台湾版・繁体中字・策略智謀 Power 6",
+      "ebook_url": "https://z-library.im/book/g5q8laMeZm/%E5%A1%94%E6%9C%A8%E5%BE%B7.html",
+      "scan": false
+    },
+    {
       "isbn": "978-7-5628-6287-1",
       "title": "日文原版.起风了（赠音频）",
       "author": "堀辰雄",
