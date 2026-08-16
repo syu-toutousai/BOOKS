@@ -24,6 +24,7 @@
 | 978-7-100-00790-0 | [古汉语常用字字典（修订版）](books/978-7-100-00790-0.md) | 《古汉语常用字字典》编写组 | 商务印书馆 | 1993-07 | 505 | CNY 16.00 | 未読 | [z-library](https://z-library.im/book/Wkm9bVWgkj/%E5%8F%A4%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E5%AD%97%E5%85%B8%28%E7%AC%AC4%E7%89%88%29.html) | A |
 | 978-7-216-01957-6 | [笑书](books/978-7-216-01957-6.md) | 朱立红 | 湖北人民出版社 | 2006-06 | 301 | CNY 34.00 | 未読 | — | A |
 | 957-29609-1-1 | [塔木德-猶太人的致富聖經](books/957-29609-1-1.md) | 佛蘭克．赫爾（著）／徐世明（訳） | 智言館 | 2004-07 | 307 | NT$ 250 | 未読 | [z-library](https://z-library.im/book/g5q8laMeZm/%E5%A1%94%E6%9C%A8%E5%BE%B7.html) | A |
+| 1-898874-04-X | [Stress, World Cultures and Peace](books/1-898874-04-X.md) | J. K. Burns Ph.D (Glas.) | 不明 | 1994 | — | — | 未読 | — | A |
 | 978-7-5628-6287-1 | [日文原版.起风了（赠音频）](books/978-7-5628-6287-1.md) | 堀辰雄 | 华东理工大学出版社 | 2020-11 | 136 | CNY 26.80 | 未読 | [z-library](https://z-library.im/book/9JD04xMAJw/%E9%A2%A8%E7%AB%8B%E3%81%A1%E3%81%AC.html) | B |
 | 978-7-5628-6288-8 | [日文原版.心（赠音频）](books/978-7-5628-6288-8.md) | 夏目漱石 | 华东理工大学出版社 | 2020-11 | 360 | CNY 38.80 | 未読 | [z-library](https://z-library.im/book/2J3MQVn45o/%E3%81%93%E3%81%93%E3%82%8D.html) | B |
 | 978-7-5628-6290-1 | [日文原版.我是猫（赠音频）](books/978-7-5628-6290-1.md) | 夏目漱石 | 华东理工大学出版社 | 2020-11 | 114 | CNY 26.80 | 未読 | [z-library](https://z-library.im/book/ek7QnbRqZq/%E5%90%BE%E8%BC%A9%E3%81%AF%E7%8C%AB%E3%81%A7%E3%81%82%E3%82%8B.html) | B |
