@@ -348,6 +348,21 @@
       "scan": false
     },
     {
+      "isbn": "978-7-301-02137-8",
+      "title": "大学生健康指南",
+      "author": "孙宗鲁（编著）",
+      "publisher": "北京大学出版社",
+      "publish_date": "1993-06",
+      "category": "G479",
+      "pages": 263,
+      "price": "CNY 5.60",
+      "status": "未読",
+      "priority": "A",
+      "notes": "books/978-7-301-02137-8.md",
+      "remark": "大学生向け健康教育ガイド（ISBN 分類記号 H14 記載）・絶版・mtoou.info に取り寄せ依頼ページあり（未取得）",
+      "scan": false
+    },
+    {
       "isbn": "978-7-5628-6287-1",
       "title": "日文原版.起风了（赠音频）",
       "author": "堀辰雄",
