@@ -279,7 +279,7 @@
       "status": "未読",
       "priority": "A",
       "notes": "books/1-898874-04-X.md",
-      "remark": "英語・私家出版の可能性・主要データベースに未収録",
+      "remark": "英語・私家出版の可能性・主要データベースに未収録；中国語訳あり：应激的成因与世界文化（978-7-5384-2302-0）",
       "ebook_url": "",
       "scan": false
     },
@@ -360,6 +360,21 @@
       "priority": "A",
       "notes": "books/978-7-301-02137-8.md",
       "remark": "大学生向け健康教育ガイド（ISBN 分類記号 H14 記載）・絶版・mtoou.info に取り寄せ依頼ページあり（未取得）",
+      "scan": false
+    },
+    {
+      "isbn": "978-7-5384-2302-0",
+      "title": "应激的成因与世界文化",
+      "author": "J.K. Burns（著）／杨凤池・斯钦图 等（译）",
+      "publisher": "吉林科学技术出版社",
+      "publish_date": "2000-09",
+      "category": "R451",
+      "pages": null,
+      "price": "",
+      "status": "未読",
+      "priority": "A",
+      "notes": "books/978-7-5384-2302-0.md",
+      "remark": "英語原版 Stress Causes, Treatment & World Cultures, Peace（1-898874-04-X・1994）の中国語訳・一版一印",
       "scan": false
     },
     {
