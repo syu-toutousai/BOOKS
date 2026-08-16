@@ -6,7 +6,7 @@
 
 - 収録件数：**69 件**（catalog.json）
 - 保管優先度内訳：A × 48 / B × 7 / C × 10 / D × 4
-- ローカル電子ファイル：epub/pdf 19 点 + 漫画 RAW（rar）25 点（約 3.3 GB、gitignore 対象）
+- ローカル電子ファイル：epub/pdf 21 点 + 漫画 RAW（rar）25 点（約 3.3 GB、gitignore 対象）
 
 ## 構成
 
@@ -62,7 +62,7 @@ source ~/.env && zlib-2   # アカウントを有効化し ZLIB_EMAIL/PASSWORD/S
 
 ## デジタル分身の取得状況
 
-- **ローカル保存**：z-library 由来 epub/pdf 19 点；漫画 RAW 25 点（九条の大罪 1-17、東京貧困女子。 1-14、unrar 検証済み。取得元 manga-zip.my / dailyuploads.net）
+- **ローカル保存**：z-library 由来 epub/pdf 21 点；漫画 RAW 25 点（九条の大罪 1-17、東京貧困女子。 1-14、unrar 検証済み。取得元 manga-zip.my / dailyuploads.net）
 - **オンライン読書**：RAWOTAKU.com（NARUTO 1、東京貧困女子。 15）、RAWKUMA.net（九条の大罪 1-17）
 - **z-library リンク**：各書の `ebook_url`（Pages の電子版列にも表示）
 
