@@ -18,6 +18,7 @@ BOOKS/
 ├── 携帯リスト.md    # 出張・旅行時の携帯リスト（実体必須 15 冊 + 電子版で可 53 件）
 ├── 願望リスト.md    # 欲しい・読みたい本のメモ（入手後は catalog.json に登録）
 ├── zlibr.py        # Z-Library 電子版の検索・取得ヘルパー
+├── Kindle縦書き変換.md  # AZW3→MOBI（縦書き・ruby 保持）の変換手順
 └── .gitignore      # *.epub/*.pdf/*.rar 等の電子書籍本体を除外
 ```
 
@@ -70,6 +71,17 @@ source ~/.env && zlib-2   # アカウントを有効化し ZLIB_EMAIL/PASSWORD/S
 ## サイト
 
 - GitHub Pages: https://syu-toutousai.github.io/BOOKS/
+
+## Kindle への転送（縦書き・ruby 保持）
+
+`.azw3`（KF8）を Kindle Paperwhite 第6世代などで読むための `.mobi` / `.azw` 変換手順は [Kindle縦書き変換.md](Kindle縦書き変換.md) を参照。
+
+- `.mobi` / `.azw` でも、KF8 を内包した **joint（combo）MOBI** なら縦書き・ruby は保持される。
+- KF8 単体を `.mobi` にしたファイルは Paperwhite で開けない（転送成功でも不可）。
+- calibre は `--mobi-file-type=both` を使う。組版保持のため CSS flattener を無効化するラッパーを併用。
+- 検証コマンド・既知の差分・実例は上記ファイルに記載。
+
+次回は「BOOKS の Kindle縦書き変換.md の手順で変換して」と指示すればよい。
 
 ## 監査記録（2026-08-15）
 
